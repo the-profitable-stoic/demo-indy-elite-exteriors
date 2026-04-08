@@ -1,0 +1,612 @@
+{
+  "business": {
+    "name": "Indy Elite Exteriors",
+    "phone": "+13177148074",
+    "category": "roofing contractor",
+    "city": "Indianapolis",
+    "state": "IN"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-mountain-bold",
+      "categoryGroup": "roofing",
+      "name": "Mountain Bold",
+      "recipeFile": "roofing/mountain-bold.astro",
+      "colors": {
+        "primary": "#1A3A52",
+        "primaryDark": "#0F2436",
+        "primaryLight": "#C8DDE8",
+        "secondary": "#2D5F7C",
+        "accent": "#FFC600",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1A3A52",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Indy's Roofing Authority",
+      "heroSubline": "Protecting Indianapolis homes with expert roofing services. We handle everything from minor repairs to complete roof replacements.",
+      "aboutTitle": "Built on Trust, Driven by Results",
+      "aboutText": [
+        "Indy Elite Exteriors started with a simple goal: to provide Indianapolis homeowners with honest, reliable roofing services. We saw too many contractors cutting corners, and we knew we could do better.",
+        "Our approach is straightforward: quality materials, skilled craftsmanship, and transparent communication. We treat every home as if it were our own, ensuring lasting protection against Indiana's unpredictable weather.",
+        "We're proud to be a part of the Indianapolis community. We believe in giving back through local partnerships and supporting initiatives that strengthen our neighborhoods."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "We understand Indianapolis' unique climate and housing styles, ensuring tailored solutions."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "We use only premium roofing materials from trusted manufacturers, built to last."
+        },
+        {
+          "title": "Expert Craftsmanship",
+          "description": "Our experienced team delivers meticulous workmanship, exceeding industry standards."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "We provide clear, detailed estimates with no hidden fees or surprises."
+        }
+      ],
+      "ctaHeadline": "Secure Your Home Today",
+      "ctaSubline": "Get a free, no-obligation roofing inspection. Protect your investment with Indy Elite Exteriors."
+    },
+    "services": [
+      {
+        "slug": "roof-replacement",
+        "name": "Roof Replacement",
+        "shortDescription": "Complete roof replacement services for lasting protection.",
+        "description": "When your roof reaches the end of its lifespan, or suffers extensive damage, a full replacement is the best solution. Indy Elite Exteriors offers comprehensive roof replacement services, tailored to Indianapolis homes. We start with a thorough inspection to assess the condition of your existing roof and identify any underlying issues. \n\nWe then help you choose the best roofing materials for your home, considering factors like durability, aesthetics, and budget. We work with asphalt shingles, metal roofing, and more, ensuring a perfect fit for your needs. Our skilled team handles every aspect of the replacement process, from removing the old roof to installing underlayment, flashing, and the new roofing material. \n\nWe pay close attention to detail, ensuring a watertight and long-lasting roof. A new roof not only protects your home from the elements but also increases its value and curb appeal. Let Indy Elite Exteriors provide you with a worry-free roof replacement experience.",
+        "process": [
+          "Step 1: Thorough roof inspection and damage assessment",
+          "Step 2: Material selection and customized proposal",
+          "Step 3: Old roof removal and site preparation",
+          "Step 4: Professional installation of new roofing system"
+        ],
+        "benefits": [
+          "Increased home value",
+          "Enhanced curb appeal",
+          "Long-term protection",
+          "Improved energy efficiency"
+        ],
+        "faq": [
+          {
+            "question": "How long does a roof replacement take?",
+            "answer": "Typically, a roof replacement takes 1-3 days, depending on the size and complexity of the roof, and weather conditions."
+          },
+          {
+            "question": "What type of roofing material is best for Indianapolis weather?",
+            "answer": "Asphalt shingles are a popular and cost-effective choice, offering good durability and resistance to wind and hail. Metal roofing is also a great option for superior longevity."
+          },
+          {
+            "question": "How do I know if I need a roof replacement?",
+            "answer": "Signs include widespread shingle damage, leaks, excessive granule loss, and an aging roof (20+ years old). A professional inspection can confirm the need for replacement."
+          }
+        ]
+      },
+      {
+        "slug": "roof-repair",
+        "name": "Roof Repair",
+        "shortDescription": "Expert roof repair services to address leaks and damage.",
+        "description": "Even minor roof damage can lead to significant problems if left unaddressed. Indy Elite Exteriors provides prompt and reliable roof repair services to fix leaks, replace damaged shingles, and address other issues. We understand the urgency of roof repairs, especially with Indianapolis' frequent thunderstorms and harsh winters. \n\nOur experienced technicians quickly diagnose the source of the problem and implement effective solutions. We use high-quality materials and proven techniques to ensure lasting repairs. Whether you have a leaky roof, missing shingles, or storm damage, we're here to help. We handle all types of roof repairs, from small patches to more extensive fixes. \n\nDon't let a small leak turn into a major headache. Contact Indy Elite Exteriors for fast and dependable roof repair services.",
+        "process": [
+          "Step 1: Emergency leak assessment and tarping (if needed)",
+          "Step 2: Detailed roof inspection to identify damage",
+          "Step 3: Targeted repairs using quality materials",
+          "Step 4: Final inspection to ensure watertight seal"
+        ],
+        "benefits": [
+          "Prevents further damage",
+          "Extends roof lifespan",
+          "Saves money on costly repairs",
+          "Maintains property value"
+        ],
+        "faq": [
+          {
+            "question": "How quickly can you respond to a roof repair request?",
+            "answer": "We strive to respond to emergency repair requests as quickly as possible, often within 24 hours, depending on the severity and our current workload."
+          },
+          {
+            "question": "What types of roof repairs do you handle?",
+            "answer": "We handle all types of roof repairs, including leak repairs, shingle replacement, flashing repairs, and storm damage repairs."
+          },
+          {
+            "question": "How much does a roof repair cost?",
+            "answer": "The cost of a roof repair varies depending on the extent of the damage and the materials required. We provide free, no-obligation estimates."
+          }
+        ]
+      },
+      {
+        "slug": "storm-damage-repair",
+        "name": "Storm Damage Repair",
+        "shortDescription": "Comprehensive storm damage repair for roofs affected by wind and hail.",
+        "description": "Indianapolis is no stranger to severe weather, and storms can wreak havoc on roofs. Indy Elite Exteriors specializes in storm damage repair, helping homeowners recover quickly and efficiently. We understand the complexities of dealing with insurance claims and can assist you throughout the process. \n\nOur team is experienced in assessing storm damage, documenting the extent of the damage, and providing detailed reports for your insurance company. We work closely with insurance adjusters to ensure you receive a fair settlement. We handle all types of storm damage repairs, including wind damage, hail damage, and tree damage. \n\nFrom patching holes to replacing entire sections of the roof, we restore your roof to its pre-storm condition. Don't let storm damage compromise the integrity of your home. Contact Indy Elite Exteriors for expert storm damage repair services.",
+        "process": [
+          "Step 1: Emergency tarping and damage prevention",
+          "Step 2: Detailed storm damage assessment and documentation",
+          "Step 3: Insurance claim assistance and coordination",
+          "Step 4: Professional repairs to restore roof integrity"
+        ],
+        "benefits": [
+          "Insurance claim assistance",
+          "Fast and efficient repairs",
+          "Restores roof integrity",
+          "Prevents further damage"
+        ],
+        "faq": [
+          {
+            "question": "What should I do immediately after my roof is damaged in a storm?",
+            "answer": "Contact Indy Elite Exteriors for emergency tarping to prevent further water damage. Then, contact your insurance company to file a claim."
+          },
+          {
+            "question": "How can you help with my insurance claim?",
+            "answer": "We can assist you with documenting the damage, providing detailed reports, and communicating with your insurance adjuster to ensure you receive a fair settlement."
+          },
+          {
+            "question": "How long will it take to repair my roof after a storm?",
+            "answer": "The timeline for storm damage repair depends on the extent of the damage and the availability of materials. We work quickly and efficiently to minimize disruption."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-services",
+        "name": "Gutter Services",
+        "shortDescription": "Gutter installation, repair, and cleaning services.",
+        "description": "Properly functioning gutters are essential for protecting your home from water damage. Indy Elite Exteriors offers comprehensive gutter services, including installation, repair, and cleaning. We understand the importance of directing water away from your foundation to prevent costly problems. \n\nWe install seamless gutters, which are less prone to leaks and require less maintenance. Our gutter repair services address issues like clogs, leaks, and sagging gutters. We also offer gutter cleaning services to remove leaves, debris, and other obstructions. Regular gutter cleaning is crucial for maintaining proper water flow. \n\nDon't let clogged or damaged gutters compromise the integrity of your home. Contact Indy Elite Exteriors for all your gutter needs.",
+        "process": [
+          "Step 1: Gutter inspection and assessment",
+          "Step 2: Gutter cleaning and debris removal",
+          "Step 3: Gutter repair or replacement (as needed)",
+          "Step 4: Downspout inspection and optimization"
+        ],
+        "benefits": [
+          "Prevents water damage",
+          "Protects foundation",
+          "Maintains property value",
+          "Extends gutter lifespan"
+        ],
+        "faq": [
+          {
+            "question": "How often should I clean my gutters?",
+            "answer": "Ideally, you should clean your gutters at least twice a year, in the spring and fall. If you have many trees around your home, you may need to clean them more frequently."
+          },
+          {
+            "question": "What are the benefits of seamless gutters?",
+            "answer": "Seamless gutters are less prone to leaks and require less maintenance than traditional gutters. They also offer a cleaner, more aesthetically pleasing look."
+          },
+          {
+            "question": "How do I know if my gutters need to be repaired or replaced?",
+            "answer": "Signs that your gutters need repair or replacement include leaks, sagging gutters, rust, and damage from storms or falling debris."
+          }
+        ]
+      },
+      {
+        "slug": "roof-inspections",
+        "name": "Roof Inspections",
+        "shortDescription": "Thorough roof inspections to assess condition and identify potential issues.",
+        "description": "Regular roof inspections are crucial for maintaining the health and longevity of your roof. Indy Elite Exteriors offers thorough roof inspections to assess the condition of your roof and identify any potential issues before they become major problems. Our experienced inspectors examine every aspect of your roof, from the shingles to the flashing to the underlayment. \n\nWe provide detailed reports outlining our findings and recommendations for repairs or maintenance. A roof inspection can help you catch small problems early, saving you money on costly repairs down the road. We recommend scheduling a roof inspection at least once a year, as well as after any major storm. \n\nProtect your investment with a professional roof inspection from Indy Elite Exteriors.",
+        "process": [
+          "Step 1: Visual inspection of roof surface and components",
+          "Step 2: Detailed assessment of shingle condition and wear",
+          "Step 3: Inspection of flashing, vents, and chimney",
+          "Step 4: Written report with findings and recommendations"
+        ],
+        "benefits": [
+          "Early detection of problems",
+          "Extends roof lifespan",
+          "Saves money on repairs",
+          "Provides peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my roof inspected?",
+            "answer": "We recommend having your roof inspected at least once a year, as well as after any major storm."
+          },
+          {
+            "question": "What does a roof inspection include?",
+            "answer": "A roof inspection includes a thorough examination of the roof's surface, shingles, flashing, vents, and other components."
+          },
+          {
+            "question": "How much does a roof inspection cost?",
+            "answer": "We offer free, no-obligation roof inspections."
+          }
+        ]
+      },
+      {
+        "slug": "attic-insulation",
+        "name": "Attic Insulation",
+        "shortDescription": "Improve energy efficiency with professional attic insulation services.",
+        "description": "Proper attic insulation is essential for maintaining a comfortable home and reducing energy costs. Indy Elite Exteriors offers professional attic insulation services to help Indianapolis homeowners improve their home's energy efficiency. We understand the importance of preventing heat loss in the winter and heat gain in the summer. \n\nOur team will assess your current insulation levels and recommend the best type of insulation for your needs. We offer a variety of insulation options, including fiberglass, cellulose, and spray foam. We handle the entire insulation process, from removing old insulation to installing new insulation. \n\nImprove your home's energy efficiency and comfort with attic insulation from Indy Elite Exteriors.",
+        "process": [
+          "Step 1: Attic inspection and insulation assessment",
+          "Step 2: Removal of old or damaged insulation",
+          "Step 3: Installation of new insulation material",
+          "Step 4: Sealing of gaps and air leaks"
+        ],
+        "benefits": [
+          "Reduced energy bills",
+          "Improved home comfort",
+          "Prevents ice dams",
+          "Environmentally friendly"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if I need more attic insulation?",
+            "answer": "If your energy bills are high, your home feels drafty, or you have ice dams on your roof, you may need more attic insulation."
+          },
+          {
+            "question": "What type of insulation is best for my attic?",
+            "answer": "The best type of insulation depends on your budget, climate, and personal preferences. We can help you choose the right insulation for your needs."
+          },
+          {
+            "question": "How much does attic insulation cost?",
+            "answer": "The cost of attic insulation varies depending on the size of your attic and the type of insulation you choose. We provide free, no-obligation estimates."
+          }
+        ]
+      },
+      {
+        "slug": "skylight-services",
+        "name": "Skylight Services",
+        "shortDescription": "Skylight installation and repair services for natural light and ventilation.",
+        "description": "Bring natural light into your home with skylight installation and repair services from Indy Elite Exteriors. Skylights can brighten up any room and provide ventilation. We offer a wide range of skylight options to suit your needs and preferences. \n\nOur experienced technicians handle all aspects of skylight installation, from cutting the opening to sealing the unit. We also provide skylight repair services to fix leaks, replace damaged glass, and address other issues. Don't let a leaky or damaged skylight compromise the integrity of your roof. \n\nContact Indy Elite Exteriors for expert skylight services.",
+        "process": [
+          "Step 1: Skylight selection and placement consultation",
+          "Step 2: Precise opening cut and framing",
+          "Step 3: Professional skylight installation and sealing",
+          "Step 4: Interior finishing and trim"
+        ],
+        "benefits": [
+          "Natural light",
+          "Improved ventilation",
+          "Enhanced aesthetics",
+          "Increased home value"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of skylights?",
+            "answer": "Skylights provide natural light, improve ventilation, enhance aesthetics, and increase home value."
+          },
+          {
+            "question": "How do I prevent leaks around my skylight?",
+            "answer": "Proper installation and regular maintenance are key to preventing leaks around your skylight. We use high-quality sealing materials and techniques to ensure a watertight seal."
+          },
+          {
+            "question": "How much does skylight installation cost?",
+            "answer": "The cost of skylight installation varies depending on the size and type of skylight. We provide free, no-obligation estimates."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Carmel",
+        "slug": "carmel-in",
+        "state": "IN",
+        "content": "Indy Elite Exteriors is proud to offer comprehensive roofing services to the residents and businesses of Carmel, Indiana. Known for its upscale developments built primarily between the 1980s and 2000s, Carmel boasts beautiful homes that require expert care to maintain their value and curb appeal. We understand the specific roofing needs of Carmel's diverse architecture, from traditional shingle roofs to more modern materials. Our team is dedicated to providing top-quality roofing solutions tailored to the unique characteristics of Carmel homes. \n\nWith cold winters bringing snow and ice, Carmel roofs face significant challenges. Indy Elite Exteriors offers specialized services to protect your home from the elements, including ice dam prevention, snow removal, and thorough roof inspections to identify and address potential issues before they become major problems. We're committed to ensuring your Carmel home remains safe, secure, and beautiful for years to come.",
+        "localContext": "Carmel, Indiana, is characterized by its upscale residential areas and carefully planned developments from the late 20th and early 21st centuries, reflecting a commitment to quality living.",
+        "nearbyAreas": [
+          "Westfield",
+          "Zionsville",
+          "Fishers"
+        ]
+      },
+      {
+        "city": "Fishers",
+        "slug": "fishers-in",
+        "state": "IN",
+        "content": "Indy Elite Exteriors is dedicated to serving the roofing needs of Fishers, Indiana, a rapidly growing city known for its family-friendly atmosphere and newer planned communities developed from the 1990s through the 2020s. These modern homes require reliable roofing systems, and we're here to provide expert installation, repair, and maintenance services. We understand the importance of a durable and aesthetically pleasing roof in maintaining the value and appeal of your Fishers property. \n\nFishers experiences cold winters with snow and ice, making it crucial to have a robust roofing system that can withstand the elements. Indy Elite Exteriors specializes in providing roofing solutions designed to protect your home from the harsh Indiana weather. From ice dam prevention to emergency repairs after a storm, we're here to ensure your Fishers home remains safe and secure.",
+        "localContext": "Fishers, Indiana, is a vibrant and growing city featuring predominantly newer, planned residential communities developed in the late 20th and early 21st centuries.",
+        "nearbyAreas": [
+          "Noblesville",
+          "McCordsville",
+          "Carmel"
+        ]
+      },
+      {
+        "city": "Noblesville",
+        "slug": "noblesville-in",
+        "state": "IN",
+        "content": "Indy Elite Exteriors proudly serves the roofing needs of Noblesville, Indiana, a city rich in history and charm. From the historic Courthouse Square area to the newer developments, Noblesville boasts a diverse range of architectural styles, each with its own unique roofing requirements. We're experienced in working with all types of roofs, from traditional shingle roofs to more specialized materials, and we're committed to providing top-quality service to every homeowner in Noblesville. \n\nThe cold winters in Noblesville, with their frequent snow and ice storms, can take a toll on your roof. Indy Elite Exteriors offers comprehensive roofing services to protect your home from the elements, including ice dam prevention, snow removal, and thorough roof inspections. We're dedicated to ensuring your Noblesville home remains safe, secure, and beautiful year-round.",
+        "localContext": "Noblesville, Indiana, blends historic charm, particularly around its Courthouse Square, with modern residential areas, reflecting a mix of old and new.",
+        "nearbyAreas": [
+          "Fishers",
+          "Cicero",
+          "Carmel"
+        ]
+      },
+      {
+        "city": "Indianapolis",
+        "slug": "indianapolis-in",
+        "state": "IN",
+        "content": "Indy Elite Exteriors is your trusted roofing contractor in Indianapolis, Indiana. As a local company, we understand the unique challenges that Indianapolis roofs face, from harsh weather conditions to the diverse architectural styles found throughout the city. We offer a full range of roofing services to meet your needs. Whether you need a roof repair, replacement, or new installation, our experienced team is here to provide quality workmanship and excellent customer service. \n\nIndianapolis experiences a wide range of weather conditions throughout the year, including hot summers and cold winters. Indy Elite Exteriors offers roofing solutions designed to withstand these extremes, ensuring your home is protected year-round. We're committed to providing Indianapolis homeowners with the best possible roofing services at competitive prices.",
+        "localContext": "Indianapolis, Indiana, is a large metropolitan area with diverse neighborhoods and a variety of architectural styles.",
+        "nearbyAreas": [
+          "Carmel",
+          "Fishers",
+          "Greenwood"
+        ]
+      },
+      {
+        "city": "Zionsville",
+        "slug": "zionsville-in",
+        "state": "IN",
+        "content": "Indy Elite Exteriors is proud to offer its roofing services to the beautiful community of Zionsville, Indiana. Known for its charming brick streets and well-maintained homes, Zionsville demands a roofing contractor that understands the importance of quality and aesthetics. We offer a wide range of roofing solutions to complement the architectural style of your home, from traditional asphalt shingles to premium materials like slate and tile. Our experienced team is committed to providing exceptional workmanship and customer service to Zionsville homeowners. \n\nWith cold winters and occasional heavy snowfall, Zionsville roofs require regular maintenance and care. Indy Elite Exteriors offers comprehensive roofing services to protect your home from the elements, including ice dam prevention, snow removal, and thorough roof inspections. We're dedicated to ensuring your Zionsville home remains safe, secure, and beautiful for years to come.",
+        "localContext": "Zionsville, Indiana, is known for its charming village atmosphere, brick streets, and well-preserved historic homes.",
+        "nearbyAreas": [
+          "Whitestown",
+          "Lebanon",
+          "Carmel"
+        ]
+      },
+      {
+        "city": "Westfield",
+        "slug": "westfield-in",
+        "state": "IN",
+        "content": "Indy Elite Exteriors is dedicated to providing top-quality roofing services to the residents and businesses of Westfield, Indiana. As one of the fastest-growing cities in Indiana, Westfield boasts a mix of established neighborhoods and new developments, each with its own unique roofing needs. We have experience working with all types of roofs and are committed to providing tailored solutions to meet your specific requirements. Whether you need a minor repair or a complete roof replacement, Indy Elite Exteriors is here to help. \n\nWestfield experiences cold winters with snow and ice, making it essential to have a reliable roofing system that can withstand the elements. Indy Elite Exteriors offers specialized services to protect your home from winter weather, including ice dam prevention, snow removal, and thorough roof inspections. We're committed to ensuring your Westfield home remains safe and secure year-round.",
+        "localContext": "Westfield, Indiana, is a rapidly growing city with a mix of established neighborhoods and newer residential developments.",
+        "nearbyAreas": [
+          "Carmel",
+          "Sheridan",
+          "Zionsville"
+        ]
+      },
+      {
+        "city": "Greenwood",
+        "slug": "greenwood-in",
+        "state": "IN",
+        "content": "Indy Elite Exteriors is pleased to offer roofing services to the community of Greenwood, Indiana. Greenwood presents an array of housing styles, each with its own set of roofing considerations. We understand these nuances and provide roofing solutions that cater to the specific requirements of your home. From minor repairs to complete replacements, our team of experts is equipped to handle any roofing project with precision and care. \n\nGreenwood experiences its share of harsh weather, particularly during the winter months. Indy Elite Exteriors offers services that are designed to protect your Greenwood home from the elements. This includes ice dam prevention, snow removal, and in-depth roof inspections to catch and resolve potential issues before they escalate.",
+        "localContext": "Greenwood, Indiana, is characterized by a diverse range of residential properties and a strong community spirit.",
+        "nearbyAreas": [
+          "Indianapolis",
+          "Whiteland",
+          "Bargersville"
+        ]
+      },
+      {
+        "city": "Brownsburg",
+        "slug": "brownsburg-in",
+        "state": "IN",
+        "content": "Indy Elite Exteriors is proud to extend our roofing services to the residents of Brownsburg, Indiana. Known for its family-friendly environment and growing community, Brownsburg homes require reliable roofing to withstand the Indiana climate. We offer a range of services from repairs to full replacements, ensuring your home is protected. Our team is dedicated to providing quality workmanship and excellent customer service to the Brownsburg community.\n\nBrownsburg experiences cold, snowy winters and hot, humid summers, putting stress on roofs. Indy Elite Exteriors specializes in solutions to combat these conditions, including ice dam prevention, ventilation improvements, and durable roofing materials. We aim to keep your home safe and comfortable, no matter the season.",
+        "localContext": "Brownsburg, Indiana, is known for its family-oriented atmosphere and growing residential areas.",
+        "nearbyAreas": [
+          "Avon",
+          "Plainfield",
+          "Zionsville"
+        ]
+      },
+      {
+        "city": "Avon",
+        "slug": "avon-in",
+        "state": "IN",
+        "content": "Indy Elite Exteriors provides roofing services in Avon, Indiana. Understanding the needs of Avon homeowners, we deliver quality workmanship and reliable solutions. From handling minor repairs to full roof replacements, our team is equipped to provide a variety of services. We are committed to ensuring that homes in Avon are well-protected and maintain their curb appeal.\n\nAvon's climate, marked by cold winters and warm summers, can impact roofing systems. Indy Elite Exteriors offers roofing options designed to endure these weather conditions. We aim to provide Avon homeowners with the best possible roofing solutions, ensuring your home remains secure and aesthetically pleasing for years to come.",
+        "localContext": "Avon, Indiana, is a growing suburban community with a mix of residential and commercial properties.",
+        "nearbyAreas": [
+          "Brownsburg",
+          "Plainfield",
+          "Indianapolis"
+        ]
+      },
+      {
+        "city": "Plainfield",
+        "slug": "plainfield-in",
+        "state": "IN",
+        "content": "Indy Elite Exteriors is dedicated to offering top-quality roofing services to Plainfield, Indiana. Understanding the demands of Plainfield's climate and the diverse architectural styles present, we provide tailored roofing solutions for homeowners. We offer everything from minor repairs to complete roof replacements, ensuring that your home is well-protected and aesthetically pleasing.\n\nPlainfield experiences a range of weather conditions, including cold winters and hot summers. Indy Elite Exteriors specializes in roofing systems that can withstand these extremes. We provide solutions to protect your home from ice dams, leaks, and other weather-related issues, ensuring your peace of mind year-round.",
+        "localContext": "Plainfield, Indiana, is a growing community known for its parks, recreational facilities, and mix of residential and commercial areas.",
+        "nearbyAreas": [
+          "Avon",
+          "Mooresville",
+          "Indianapolis"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Roof Replacement",
+        "text": "Indy Elite Exteriors did an outstanding job replacing our roof after the hail storm. The crew was professional, efficient, and cleaned up everything perfectly. Our new roof looks fantastic, and we have peace of mind knowing it's built to last. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "John K.",
+        "rating": 4,
+        "service": "Roof Repair",
+        "text": "We had a persistent leak in our roof, and Indy Elite Exteriors quickly identified and repaired the problem. They were responsive, professional, and the price was fair. I'd definitely use them again.",
+        "date": "2025-02-20"
+      },
+      {
+        "name": "Emily B.",
+        "rating": 5,
+        "service": "Gutter Cleaning",
+        "text": "Indy Elite Exteriors cleaned our gutters and did a fantastic job. They were thorough, efficient, and left no mess behind. Our gutters are now flowing freely, and we're ready for the spring rains.",
+        "date": "2024-11-01"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "service": "Storm Damage Repair",
+        "text": "After a nasty storm, Indy Elite Exteriors helped us navigate the insurance claim process and repaired our damaged roof quickly. They were professional, knowledgeable, and made a stressful situation much easier to handle.",
+        "date": "2024-09-10"
+      },
+      {
+        "name": "Jessica P.",
+        "rating": 4,
+        "service": "Roof Inspection",
+        "text": "Indy Elite Exteriors provided a thorough roof inspection and identified some potential issues that we were able to address before they became bigger problems. The inspector was knowledgeable and explained everything clearly.",
+        "date": "2024-07-05"
+      },
+      {
+        "name": "Michael R.",
+        "rating": 5,
+        "service": "Attic Insulation",
+        "text": "Indy Elite Exteriors installed new attic insulation, and we've already noticed a difference in our energy bills. Our home is more comfortable, and we're saving money. The crew was professional and efficient.",
+        "date": "2024-05-12"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Indy Elite Exteriors: Indianapolis Roofing",
+        "description": "Indianapolis' trusted roofing contractor. Roof repair, replacement, storm damage. Free estimates!"
+      },
+      "about": {
+        "title": "About Indy Elite Exteriors: Indianapolis Roofing",
+        "description": "Learn about Indy Elite Exteriors' commitment to quality roofing in Indianapolis. Local experts you can trust."
+      },
+      "services": {
+        "title": "Indianapolis Roofing Services | Indy Elite",
+        "description": "Expert roofing services in Indianapolis. Repair, replacement, gutters, insulation. Protect your home!"
+      },
+      "contact": {
+        "title": "Contact Indy Elite Exteriors | Indianapolis Roofing",
+        "description": "Contact Indy Elite Exteriors for roofing services in Indianapolis. Get a free estimate today!"
+      },
+      "reviews": {
+        "title": "Indy Elite Exteriors Reviews | Indianapolis Roofing",
+        "description": "Read reviews of Indy Elite Exteriors. See why Indianapolis homeowners trust us for roofing services."
+      },
+      "service-areas": {
+        "title": "Indy Elite Exteriors Service Areas",
+        "description": "Indy Elite Exteriors provides roofing services in Indianapolis, Carmel, Fishers, and Noblesville."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "roof-replacement": "/images/service-roof-replacement.webp",
+      "roof-repair": "/images/service-roof-repair.webp",
+      "storm-damage-repair": "/images/service-storm-damage-repair.webp",
+      "gutter-services": "/images/service-gutter-services.webp",
+      "roof-inspections": "/images/service-roof-inspections.webp",
+      "attic-insulation": "/images/service-attic-insulation.webp",
+      "skylight-services": "/images/service-skylight-services.webp"
+    },
+    "servicesResponsive": {
+      "roof-replacement": {
+        "src": "/images/service-roof-replacement.webp",
+        "srcset": "/images/service-roof-replacement-400w.webp 400w, /images/service-roof-replacement-800w.webp 800w, /images/service-roof-replacement-1200w.webp 1200w, /images/service-roof-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roof-repair": {
+        "src": "/images/service-roof-repair.webp",
+        "srcset": "/images/service-roof-repair-400w.webp 400w, /images/service-roof-repair-800w.webp 800w, /images/service-roof-repair-1200w.webp 1200w, /images/service-roof-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "storm-damage-repair": {
+        "src": "/images/service-storm-damage-repair.webp",
+        "srcset": "/images/service-storm-damage-repair-400w.webp 400w, /images/service-storm-damage-repair-800w.webp 800w, /images/service-storm-damage-repair-1200w.webp 1200w, /images/service-storm-damage-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-services": {
+        "src": "/images/service-gutter-services.webp",
+        "srcset": "/images/service-gutter-services-400w.webp 400w, /images/service-gutter-services-800w.webp 800w, /images/service-gutter-services-1200w.webp 1200w, /images/service-gutter-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roof-inspections": {
+        "src": "/images/service-roof-inspections.webp",
+        "srcset": "/images/service-roof-inspections-400w.webp 400w, /images/service-roof-inspections-800w.webp 800w, /images/service-roof-inspections-1200w.webp 1200w, /images/service-roof-inspections.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "attic-insulation": {
+        "src": "/images/service-attic-insulation.webp",
+        "srcset": "/images/service-attic-insulation-400w.webp 400w, /images/service-attic-insulation-800w.webp 800w, /images/service-attic-insulation-1200w.webp 1200w, /images/service-attic-insulation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "skylight-services": {
+        "src": "/images/service-skylight-services.webp",
+        "srcset": "/images/service-skylight-services-400w.webp 400w, /images/service-skylight-services-800w.webp 800w, /images/service-skylight-services-1200w.webp 1200w, /images/service-skylight-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
